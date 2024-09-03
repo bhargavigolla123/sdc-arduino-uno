@@ -1,0 +1,5 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"M1",1," DC Motor"
+"U2",1," H-bridge Motor Driver"
+"BAT1",1," 9V Battery"
